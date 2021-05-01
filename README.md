@@ -6,7 +6,7 @@ This theme was forked from and builds upon the work by MasterGroosha and his ["S
 
 ## Preview
 
-![Gruvbox](gruvbox-theme-preview.png)
+![Gruvbox](preview.png)
 
 ## Install
 
